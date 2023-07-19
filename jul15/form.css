@@ -3,15 +3,23 @@
     color: white;
     font-weight: 800;
     padding-left: 40%;
+    border-bottom:5px solid black ;
+
+
+}
+.do2{
+    border-bottom:3px solid black ;
+
 }
 .do3{
     margin-left: 30%;
-    margin-top: -60px;
+    margin-top: -300px;
 }
 .image1{
     
    
     width: 400px;
     margin-top:30px;
+    border-radius: 50%;
 
 }
