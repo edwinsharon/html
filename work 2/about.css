@@ -1,0 +1,27 @@
+.f1{
+    border: 2px solid black;
+    padding: 50px;
+}
+.f2{
+    border: 2px solid black;
+    padding: 80px;
+    background-color: darksalmon;
+}
+.f3{
+    border: 2px solid black;
+    padding: 80px;
+    background-color: cornflowerblue;
+}
+.f4{
+    margin-top: 5px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.f5{
+    border: 2px solid black;
+    background-color: darkkhaki;
+
+    padding-top: 80px;
+   
+    
+}
