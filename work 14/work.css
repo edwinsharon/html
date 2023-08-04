@@ -1,0 +1,41 @@
+.f1{
+    background-color: deepskyblue;
+    border: 2px solid white;
+    padding: 4px;
+}
+.f2{
+   background-color: darkorchid;
+   border: 2px solid white;
+   padding: 10px;
+}
+.f3{
+    background-color: chartreuse;
+    border: 2px solid white;
+    padding:15px ;
+}
+.f4{
+    background-color: yellow;
+    border: 2px solid white;
+    padding: 20px;
+}
+.f5{
+    background-color: dimgrey;
+    border:2px solid white;
+    padding:5px ;
+}
+.f6{
+    background-color: darkgreen;
+    border: 2px solid white;
+    padding: 10px;
+
+}
+.f7{
+    background-color: darkorchid;
+    border: 2px solid white;
+    padding:10px ;
+}
+.f8{
+    background-color: darkorange;
+    border: 2px solid white;
+    padding: 5px;
+}

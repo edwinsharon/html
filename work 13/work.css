@@ -1,0 +1,33 @@
+.f1{
+    background-color: coral;
+    border: 2px solid white;
+    padding: 15px;
+}
+.f2{
+    background-color: black;
+    border: 2px solid white;
+    padding: 10px;
+}
+.f3{
+    background-color: coral;
+    border: 2px solid white;
+    padding: 60px;
+}
+.f4{
+    background-color: chocolate;
+    border: 2px solid white;
+    padding: 35px;
+}
+.f6{
+    background-color: black;
+    border:2px solid white ;
+    padding:12px ;
+    margin-top: 3px;
+}
+.f5{
+    background-color: black;
+    border:2px solid white ;
+    padding:14px ;
+    margin-top: 3px;
+}
+
