@@ -11,13 +11,19 @@
 .three{
     padding: 10px;
     font-family: "Inter", sans-serif;
-    background-color: rgb(218, 81, 32);
+    background-color:chocolate;
     color: aliceblue;
     font-size:larger;
     border: none;
+    
 }
 .four{
     background-color: rgb(6, 6, 34);
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
 }
 .a{
     color: rgb(78, 83, 112);
@@ -43,4 +49,7 @@ button.three:hover{
 }
 h3.c:hover{
     color: rgb(236, 132, 34);
+}
+button.three.hover{
+    background-color:black;
 }
